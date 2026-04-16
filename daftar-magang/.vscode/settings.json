@@ -1,0 +1,29 @@
+{
+  "php.validate.enable": false,
+  "php.validate.executablePath": "C:\\Users\\LENOVO\\AppData\\Local\\Microsoft\\WinGet\\Packages\\PHP.PHP.8.2_Microsoft.Winget.Source_8wekyb3d8bbwe\\php.exe",
+  "php.version": "8.2",
+  "php.problems.scope": "openDocuments",
+  "php.problems.exclude": {
+    "**/vendor/**": true,
+    "**/node_modules/**": true
+  },
+  "files.exclude": {
+    "**/vendor/**": true,
+    "**/node_modules/**": true
+  },
+  "intelephense.environment.phpVersion": "8.2.0",
+  "intelephense.files.exclude": [
+    "**/vendor/**",
+    "**/node_modules/**",
+    "**/storage/**",
+    "**/bootstrap/cache/**"
+  ],
+  "files.watcherExclude": {
+    "**/vendor/**": true,
+    "**/node_modules/**": true
+  },
+  "search.exclude": {
+    "**/vendor/**": true,
+    "**/node_modules/**": true
+  }
+}
