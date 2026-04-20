@@ -67,7 +67,7 @@ User dapat melakukan presensi masuk dan pulang sesuai jadwal kerja yang berlaku.
 ### 3. Kalender Riwayat Absensi User
 Riwayat kehadiran user ditampilkan dalam format kalender bulanan agar lebih mudah dibaca.
 
-![Kalender Riwayat User](images-readme/kalender%20riwayat%20user.png)
+![Kalender Riwayat User](images-readme/kalender%20riwayat%20absensi.png)
 
 ### 4. Pengajuan Ketidakhadiran
 User dapat mengajukan ketidakhadiran untuk kebutuhan administratif.
