@@ -17,3 +17,8 @@ resources/views/clock.blade.php
 *.cookie
 storage/framework/sessions/*
 tmp_*
+*.log
+UAT*.xlsx
+UAT*.csv
+tmp_login.html
+tmp_pdfmake_upgrade/
